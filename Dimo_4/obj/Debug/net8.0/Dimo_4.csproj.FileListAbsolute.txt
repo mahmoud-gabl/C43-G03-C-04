@@ -1,0 +1,14 @@
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\obj\Debug\net8.0\Dimo_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\obj\Debug\net8.0\Dimo_4.AssemblyInfoInputs.cache
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\obj\Debug\net8.0\Dimo_4.AssemblyInfo.cs
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\obj\Debug\net8.0\Dimo_4.csproj.CoreCompileInputs.cache
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\bin\Debug\net8.0\Dimo_4.exe
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\bin\Debug\net8.0\Dimo_4.deps.json
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\bin\Debug\net8.0\Dimo_4.runtimeconfig.json
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\bin\Debug\net8.0\Dimo_4.dll
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\bin\Debug\net8.0\Dimo_4.pdb
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\obj\Debug\net8.0\Dimo_4.dll
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\obj\Debug\net8.0\refint\Dimo_4.dll
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\obj\Debug\net8.0\Dimo_4.pdb
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\obj\Debug\net8.0\Dimo_4.genruntimeconfig.cache
+C:\Users\Eng Islam Metwally\OneDrive\Desktop\c#\c#4\Dimo_4\obj\Debug\net8.0\ref\Dimo_4.dll
